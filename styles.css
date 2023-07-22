@@ -12,10 +12,9 @@ body {
 
 #rcorners2 {
     border-radius: 15px;
-    
     padding: 11px;
     width: 245px;
-    height: 430px;
+    height: 440px;
     margin-left: auto;
     margin-right: auto;
     background-color: aliceblue;

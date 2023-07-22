@@ -1,5 +1,6 @@
 body {
-    background-color: #c6eff6;
+    background-color: #d5e1ef;
+   
 }
 .attribution {
     font-size: 11px; text-align: center;
@@ -32,10 +33,11 @@ body {
     text-align: center;
     font-family:'Outfit', sans-serif;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 20px;
 }
 p {
     text-align: center;
     font-family: 'Outfit', sans-serif;
     color: lightgray;
+    font-weight: 400;
 }
